@@ -54,6 +54,8 @@ source ~/.bashrc
 
 6- To make sure that Ros package are install write (Roscore) if the following results appear that’s mean Ros install successfully:
 
+![image](https://user-images.githubusercontent.com/109751319/185766830-e078017e-5416-4ad6-b06a-851481bd2149.jpeg)
+
 
 
 Install Xubuntu 20.04 from this link ( https://xubuntu.org/release/20-04/)
@@ -66,6 +68,10 @@ Install Ros 2 Foxy on Ubuntu 20.04
 1-set locale 
 
 Open new terminal then write locale if this appear that mean you have locale : 
+
+![image](https://user-images.githubusercontent.com/109751319/185766861-4d69b021-2aaf-479b-91c6-ce065d166fbf.jpeg)
+
+
 
 If you don’t see an output line like the one above , setup the locale : 
 
